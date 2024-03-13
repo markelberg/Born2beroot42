@@ -3,7 +3,7 @@
 # Born2beroot42
 42 cursus project. Understanding virtual machines.
 
-# What is this project about
+# About this project
 We'll familiarize handling a virtual machine using VirtualBox and Debian OS. With this project we're going to learn how the VM software simulates a computer system and can run programs as if it were a real computer. It allows the creation of multiple simulated environments or dedicated resources from a single physical hardware system.
 
 # Project Guide
